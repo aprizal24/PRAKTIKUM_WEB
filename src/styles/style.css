@@ -1,0 +1,29 @@
+.nav-custom {
+    font-size: 15px;
+    font-family: Tahoma, sans-serif;
+}
+
+.Hero {
+    padding: 250px 0;
+    background-image: url('/Users/rian/Documents/MyDoc/Semester 5/PraktikumProgramweb/MODUL3/Praktikum/ilab/src/img/hero.jpg');
+    background-size: cover; 
+    background-position: center;
+    color: #fff;
+}
+
+.footer {
+    font-size: 15px;
+    font-family: 'Gill Sans', sans-serif;
+}
+
+.contact {
+    font-size: 17px;
+    font-family: Tahoma, sans-serif;
+    background-color: rgb(235, 235, 235);
+}
+
+.aboutus {
+    background-color: rgb(254, 255, 255);
+    font-size: 17px;
+    font-family: Tahoma, sans-serif;
+}
